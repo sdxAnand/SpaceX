@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sdxAnand/SpaceX.git/static/css/main.7f9738be.css",
-    "main.js": "/sdxAnand/SpaceX.git/static/js/main.90eade52.js",
-    "static/js/787.a22f1992.chunk.js": "/sdxAnand/SpaceX.git/static/js/787.a22f1992.chunk.js",
-    "index.html": "/sdxAnand/SpaceX.git/index.html",
-    "main.7f9738be.css.map": "/sdxAnand/SpaceX.git/static/css/main.7f9738be.css.map",
-    "main.90eade52.js.map": "/sdxAnand/SpaceX.git/static/js/main.90eade52.js.map",
-    "787.a22f1992.chunk.js.map": "/sdxAnand/SpaceX.git/static/js/787.a22f1992.chunk.js.map"
+    "main.css": "/SpaceX/static/css/main.7f9738be.css",
+    "main.js": "/SpaceX/static/js/main.e653cf72.js",
+    "static/js/787.a22f1992.chunk.js": "/SpaceX/static/js/787.a22f1992.chunk.js",
+    "index.html": "/SpaceX/index.html",
+    "main.7f9738be.css.map": "/SpaceX/static/css/main.7f9738be.css.map",
+    "main.e653cf72.js.map": "/SpaceX/static/js/main.e653cf72.js.map",
+    "787.a22f1992.chunk.js.map": "/SpaceX/static/js/787.a22f1992.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9738be.css",
-    "static/js/main.90eade52.js"
+    "static/js/main.e653cf72.js"
   ]
 }
